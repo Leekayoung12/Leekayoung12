@@ -14,8 +14,11 @@
 
 
 ###  Blog
-
-
+<p>
+  <a href="https://blog.naver.com/dlrkdud22" target="_blank">
+    <img src="https://img.shields.io/badge/https://blog.naver.com/dlrkdud22-green?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 #  Skills
 
