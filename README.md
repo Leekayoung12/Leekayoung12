@@ -2,7 +2,7 @@
 
 #  About Me 
 
-### E-mail 
+### E-mail
 <p>
   <a href="mailto:iamleeka12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/iamleeka12@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
